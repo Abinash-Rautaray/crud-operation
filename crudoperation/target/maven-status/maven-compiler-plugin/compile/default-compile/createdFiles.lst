@@ -1,0 +1,9 @@
+com\test\crudoperation\TransactionsController.class
+com\test\crudoperation\dao\AccountDaoStaticDataImpl.class
+com\test\crudoperation\CrudOperationApplication.class
+com\test\crudoperation\controller\AccountController.class
+com\test\crudoperation\soapws\CountryRepository.class
+com\test\crudoperation\App.class
+com\test\crudoperation\dto\Account.class
+com\test\crudoperation\service\AccountService.class
+com\test\crudoperation\dao\AccountDao.class
